@@ -1,0 +1,1 @@
+echo file_get_content('/home/level1');
